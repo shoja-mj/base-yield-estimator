@@ -2,7 +2,7 @@
 Algorithmic forecasting library calculating automated continuous compounding yields for multi-asset decentralized finance configurations.
 # ========================================================
 # EDIT THIS VARIABLE TO GENERATE A NEW PUBLIC COMMIT
-VERSION_COMMIT_TRIGGER = 1
+VERSION_COMMIT_TRIGGER = 2
 # ========================================================
 
 class BaseYieldEstimator:
